@@ -1,3 +1,16 @@
 .main{
   min-height: 400px;
 }
+.image{
+  max-height: 500px;
+  max-width: 100%;
+}
+.button a,
+.button a:link,
+.button a:visited,
+.button a:hover,
+.button a:active {
+  color: inherit;
+  text-decoration: inherit;
+  font-weight: inherit;
+}
