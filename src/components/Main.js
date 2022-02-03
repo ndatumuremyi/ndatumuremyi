@@ -2,6 +2,7 @@ import {Col, Container, Row} from "react-bootstrap";
 import Navigation from "./Navigation";
 import Welcome from "./Welcome";
 import MyCV from "./MyCV";
+import Footer from "./Footer";
 
 
 const Main = () => {
@@ -24,17 +25,14 @@ const Main = () => {
 
                         <Row className="">
                             <Col className="">
-
-                                <div className="main  d-flex align-self-center" >
-                                    <div className="">
-                                        Welcome to paterneN portfolio // still in development
-                                    </div>
-                                </div>
                             </Col>
                         </Row>
                     </Container>
                 </div>
 
+            </div>
+            <div>
+                <Row><Col><Footer/></Col></Row>
             </div>
         </div>
 
