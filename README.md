@@ -140,9 +140,8 @@ Here are some ideas to get you started:
 
 # Portfolio
 
-# Technologies used 🛠️
+# Favourite technologies 🛠️
 
-- [React](https://reactjs.org/)
 - [graphql](https://graphql.org/)
 - [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
 - [baseui](https://github.com/uber/baseweb)
