@@ -136,8 +136,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=ndatumuremyi&theme=nord)
-
 # Portfolio
 
 # Favourite technologies 🛠️
