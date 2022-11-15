@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-# Portfolio
+<!-- # Portfolio
 
 # Favourite technologies 🛠️
 
@@ -105,4 +105,4 @@ Here are some ideas to get you started:
 
 - [UnDraw](https://undraw.co/illustrations)
 
-Illustrations: https://undraw.co/
+Illustrations: https://undraw.co/ -->
